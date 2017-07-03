@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidFirebaseSocialLogin</string>
+    <string name="facebook_app_id">1702313806741117</string>
 </resources>
