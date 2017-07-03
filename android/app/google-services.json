@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1043195707298",
+    "firebase_url": "https://bold-vortex-140411.firebaseio.com",
+    "project_id": "bold-vortex-140411",
+    "storage_bucket": "bold-vortex-140411.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043195707298:android:8491258aa0ae3b92",
+        "android_client_info": {
+          "package_name": "com.juarezserver.androidfirebasesociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043195707298-1s7gqn4g76ppjjt9rfuld49llvl9vn05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.juarezserver.androidfirebasesociallogin",
+            "certificate_hash": "c3447fd478b8b77997d3691c072fdaa01897f26a"
+          }
+        },
+        {
+          "client_id": "1043195707298-l17fei0ogfj5qqc79mvrfi054mh8hkvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABmOmUkBxtWzTNKktjWz9y_PyQhivgrDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043195707298-l17fei0ogfj5qqc79mvrfi054mh8hkvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
